@@ -1,0 +1,5 @@
+Right-click Inspect_System.bat -> Run as Administrator.
+
+Press 1 (AdwCleaner). Does it launch?
+
+Press 3 (Nmap Fast). Enter 127.0.0.1 (localhost). Does it show a text scan result?
